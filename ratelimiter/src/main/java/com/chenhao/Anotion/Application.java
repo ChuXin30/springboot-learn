@@ -13,6 +13,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @ComponentScan(basePackages = {"com.chenhao"})
 public class Application {
 
+
 	private static final Logger LOGGER = LoggerFactory.getLogger(Application.class);
 
 
